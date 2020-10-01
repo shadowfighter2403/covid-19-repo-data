@@ -8,7 +8,7 @@ A comprehensive versioned dataset of the repositories and relevant related metad
 For a view of the latest projects, see the [covid-19](https://github.com/topics/covid-19) topic on GitHub. To preview and interact with the data provided, see the subsection [below](https://github.com/github/covid-19-repo-data/blob/master/README.md#preview-this-data-with-a-sql-interface).
 
 ## Why is GitHub doing this?
-
+because github is an open source which is used for placements.
 We have received a number of enquiries from researchers and the community surrounding open collaboration on projects on the platform related to the disease COVID-19 caused by the SARS-CoV-2 virus. Many projects, ordered by star count, can be found using the [covid-19](https://github.com/topics/covid-19) topic on GitHub, however, discovery of other important projects is difficult due to differences in the way users self identify their work. There are some great `awesomelists` such as https://github.com/soroushchehresa/awesome-coronavirus documenting useful projects but they are not time versioned.
 
 As this is such an important topic to many people at this time, we've decided to do regular, versioned, extracts of data from our systems and make them available to researchers under an open license to allow for deeper analysis of these public projects from teams outside of GitHub.
